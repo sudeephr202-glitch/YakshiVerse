@@ -46,13 +46,13 @@ View captured credentials: The captured credentials will be logged to the data/d
 
 ## File Structure
 
-* **YakshiVerse/**:
-* **|-- data**:
-* **    |-- data.txt**:
-* **|-- index.php**:
-* **|-- login.html**:
-* **|-- README-pentest.md**:
-
+* **YakshiVerse/**
+  * data/
+    * data.txt
+  * index.php
+  * login.html
+  * README-pentest.md.
+    
 Here's a brief description of each file and directory:
 
 index.php: The main PHP file containing the script that captures user credentials and logs them to data/data.txt.
