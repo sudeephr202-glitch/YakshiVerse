@@ -1,9 +1,9 @@
-I see you've shared a README file for an Instagram phishing page. I'll provide a rewritten version of the content in a single file format, making it easy to read and understand.
-
-<img width="1254" height="1254" alt="yakshi" src="https://github.com/user-attachments/assets/1720b32a-6578-49e8-b420-bbf4248d892e" />
-
 **Instagram Phishing Page README**
 =====================================
+<img width="1254" height="1254" alt="yakshi" src="https://github.com/user-attachments/assets/1720b32a-6578-49e8-b420-bbf4248d892e" />
+
+
+
 
 **Introduction**
 ---------------
