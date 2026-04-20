@@ -1,0 +1,8 @@
+=== INSTAGRAM CREDS [2026-04-19 14:30:25 PDT] ===
+IP: 192.168.1.100
+UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+Referrer: https://google.com
+Username/Email: test@example.com
+Password: P@ssw0rd123
+================================================== 
+
