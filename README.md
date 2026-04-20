@@ -31,11 +31,13 @@ This phishing page is designed for educational purposes and controlled security 
 
 ## Usage
 
-1. Save the `phish.php` file in the root directory of your server.
-2. Create a `data` directory in the same location as the `phish.php` file.
-3. Access the phishing page by navigating to `http://your-server-ip/phish.php` in your web browser.
-4. Enter your credentials and submit the form to test the phishing page.
+Usage
+To use the YakshiVerse phishing tool, follow these steps:
 
+Save the files: Save all the files in the same directory, maintaining the above file structure.
+Access the phishing page: Access the phishing page by navigating to http://your-server-ip/login.html in your web browser.
+Enter credentials: Enter the victim's Instagram credentials and submit the form.
+View captured credentials: The captured credentials will be logged to the data/data.txt file, which has the following format (as seen in the data.txt document):
 ## Security Considerations
 
 * **Use responsibly**: This phishing page is designed for educational purposes and controlled security testing environments. Do not use it for malicious purposes.
@@ -44,9 +46,19 @@ This phishing page is designed for educational purposes and controlled security 
 
 ## File Structure
 
-* `phish.php`: The main PHP file containing the script.
-* `data/`: A directory to store captured credentials and session information.
-	+ `data.txt`: A file within the `data` directory where the captured information is logged.
+YakshiVerse/
+|-- data
+    |-- data.txt
+|-- index.php
+|-- login.html
+|-- README-pentest.md
+
+Here's a brief description of each file and directory:
+
+index.php: The main PHP file containing the script that captures user credentials and logs them to data/data.txt.
+data/: A directory to store captured credentials and session information.
+data/data.txt: A file within the data directory where the captured information is logged.
+README-pentest.md: A file containing information about the setup, usage, and notes for the phishing pentest.
 
 ## Known Issues
 
